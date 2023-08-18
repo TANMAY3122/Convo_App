@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "312062292727",
+    "project_id": "convo-74acd",
+    "storage_bucket": "convo-74acd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312062292727:android:82a2465007c3fef0ed59f2",
+        "android_client_info": {
+          "package_name": "com.example.convo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312062292727-8f1vqcnim41343l8as4l81aaf81htjkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATgM4B7Dwjwo8-8m2813pOggwMMGeCNPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312062292727-8f1vqcnim41343l8as4l81aaf81htjkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
